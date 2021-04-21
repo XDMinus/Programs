@@ -1,0 +1,8 @@
+D:\ИС1-21\shark\3 job\3 job\bin\Debug\3 job.exe.config
+D:\ИС1-21\shark\3 job\3 job\bin\Debug\3 job.exe
+D:\ИС1-21\shark\3 job\3 job\bin\Debug\3 job.pdb
+D:\ИС1-21\shark\3 job\3 job\obj\Debug\_3_job.Form1.resources
+D:\ИС1-21\shark\3 job\3 job\obj\Debug\_3_job.Properties.Resources.resources
+D:\ИС1-21\shark\3 job\3 job\obj\Debug\3 job.csproj.GenerateResource.cache
+D:\ИС1-21\shark\3 job\3 job\obj\Debug\3 job.exe
+D:\ИС1-21\shark\3 job\3 job\obj\Debug\3 job.pdb
